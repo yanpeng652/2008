@@ -1,2 +1,2 @@
 ceshi git clone
-text success
+test success
